@@ -5,13 +5,13 @@ This is my custom Blacklist for AD content for my Pihole Device
 
 #### Blacklist
 
-**Enter on youre admin page**
+Enter on youre admin page
 
 192.168.xx.90/admin (some like this)
 
 #### How to Add list
 
-**Enter the URL on youre Setting/Blocklists**
+Enter the URL on your Setting/Blocklists
 
 https://raw.githubusercontent.com/HeribertoKubuntu/pihole/master/PiholeBlackList.txt
 
@@ -21,13 +21,13 @@ https://raw.githubusercontent.com/HeribertoKubuntu/pihole/master/PiholeBlackList
 
 #### Regex List
 
-**Enter on youre admin page**
+Enter on your admin page
 
 192.168.xx.90/admin (some like this)
 
 #### How to Add list
 
-**Enter the URL on youre Blaclist**
+Enter the URL of your blacklist
 
 https://github.com/HeribertoKubuntu/pihole/blob/master/regex.list <code>Add (regex)</code>
 
