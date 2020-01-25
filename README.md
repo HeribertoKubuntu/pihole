@@ -9,7 +9,7 @@ This is my custom Blacklist for AD content for my Pihole Device
 
 192.168.xx.90/admin (some like this)
 
-##### How to Add list
+#### How to Add list
 
 **Enter the URL on youre Setting/Blocklists**
 
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/HeribertoKubuntu/pihole/master/PiholeBlackList
 
 192.168.xx.90/admin (some like this)
 
-##### How to Add list
+#### How to Add list
 
 **Enter the URL on youre Blaclist**
 
