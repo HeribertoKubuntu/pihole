@@ -5,7 +5,7 @@ This is my custom Blacklist for AD content for my Pihole Device
 
 #### Blacklist
 
-Enter on youre admin page
+Enter on your admin page
 
 192.168.xx.90/admin (some like this)
 
